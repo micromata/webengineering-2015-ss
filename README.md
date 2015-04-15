@@ -4,8 +4,9 @@ Lecture slides and source code to the lecture Webengineering at the University o
 
 # Directories
 
-    slides/ Keynote files and PDFs for the lecture
-    demo/   Source code for the demo in the lecture
+    slides/    Keynote files and PDFs for the lecture
+    demo/      Source code for the demo in the lecture
+    exercises/ Exercises for each week
 
 # Links
 
