@@ -24,9 +24,12 @@ public class MainController {
 
     ModelAndView mav = new ModelAndView("index");
 
-    List<String> list = new LinkedList<String>();
-    for (int i = 0; i < 10; i++) {
-      list.add(Integer.toString(i));
+    List<Entry> list = new LinkedList<Entry>();
+    for (long i = 0; i < 10; i++) {
+      Entry entry = new Entry();
+      entry.setVotes(i);
+      entry.setTitle("Title:" + Long.toString(i));
+      list.add(entry);
     }
     mav.addObject("list", list);
 
