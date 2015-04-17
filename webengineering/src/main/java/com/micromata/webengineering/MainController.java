@@ -6,6 +6,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
+import java.util.Date;
+
 /**
  * Main controller.
  *
@@ -20,6 +22,8 @@ public class MainController {
     LOG.info("Request to /index");
 
     ModelAndView mav = new ModelAndView("index");
+
+    mav.addObject("date", new Date().toString());
 
     return mav;
   }
