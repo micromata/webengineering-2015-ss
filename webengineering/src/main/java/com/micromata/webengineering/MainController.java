@@ -24,7 +24,7 @@ public class MainController {
 
     ModelAndView mav = new ModelAndView("index");
 
-    List<Entry> list = new LinkedList<Entry>();
+    List<Entry> list = new LinkedList<>();
     for (long i = 0; i < 10; i++) {
       Entry entry = new Entry();
       entry.setVotes(i);
