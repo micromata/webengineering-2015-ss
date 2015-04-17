@@ -6,6 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
+import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -32,6 +33,7 @@ public class MainController {
       list.add(entry);
     }
     mav.addObject("list", list);
+    mav.addObject("date", new Date());
 
     return mav;
   }

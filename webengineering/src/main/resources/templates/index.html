@@ -8,6 +8,8 @@
 <span data-th-text="#{index.title}">Starrit</span>
 <hr/>
 
+<span data-th-text="${date}"></span>
+
 <table border="1">
   <tr data-th-each="entry : ${list}">
     <td data-th-text="${entry.votes}"></td>
