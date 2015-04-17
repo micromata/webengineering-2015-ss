@@ -8,9 +8,12 @@
 <span data-th-text="#{index.title}">Starrit</span>
 <hr/>
 
-<span data-th-text="${date}"></span>
-<br/>
-<span data-th-text="${list}"></span>
+<ul>
+  <li data-th-each="entry : ${list}">
+    <span data-th-text="${entry}"></span>
+  </li>
+
+</ul>
 
 </body>
 </html>

@@ -6,7 +6,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -25,7 +24,6 @@ public class MainController {
 
     ModelAndView mav = new ModelAndView("index");
 
-    mav.addObject("date", new Date());
     List<String> list = new LinkedList<String>();
     for (int i = 0; i < 10; i++) {
       list.add(Integer.toString(i));
