@@ -2,6 +2,10 @@
 
 Lecture slides and source code to the lecture Webengineering at the University of Kassel.
 
+# Videos
+
+- [Lecture 2](https://www.youtube.com/watch?v=BNcWfW0yyVk)
+
 # Directories
 
     slides/           Keynote files and PDFs for the lecture
