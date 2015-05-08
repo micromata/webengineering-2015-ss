@@ -2,6 +2,11 @@
 
 Lecture slides and source code to the lecture Webengineering at the University of Kassel.
 
+# News
+
+- The lecture on Friday, 15th May 2015 is cancelled.
+- Die Vorlesung am Freitag, 15. Mai 2015 fällt aus.
+
 # Videos
 
 - [Lecture 2](https://www.youtube.com/watch?v=BNcWfW0yyVk)
