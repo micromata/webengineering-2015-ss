@@ -9,6 +9,7 @@ Lecture slides and source code to the lecture Webengineering at the University o
 
 # Videos
 
+- [Lecture 1 -- short technical introduction](https://www.youtube.com/watch?v=frDUiyJ7hDk)
 - [Lecture 2](https://www.youtube.com/watch?v=BNcWfW0yyVk)
 - [Lecture 3](https://www.youtube.com/watch?v=te5xsNmowb4)
 
