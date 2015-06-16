@@ -4,8 +4,7 @@ Lecture slides and source code to the lecture Webengineering at the University o
 
 # News
 
-- The lecture on Friday, 5th Jun 2015 is cancelled.
-- Die Vorlesung am Freitag, 05. Juni 2015 fällt aus.
+- (2015-06-16) Projekt erratat updated
 
 # Videos
 
