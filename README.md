@@ -13,6 +13,7 @@ Lecture slides and source code to the lecture Webengineering at the University o
 - [Lecture 3](https://www.youtube.com/watch?v=te5xsNmowb4)
 - [Lecture 4](https://www.youtube.com/watch?v=7ismWCTc-r0)
 - [Lecture 5](https://www.youtube.com/watch?v=OdYsEbu0Pjw)
+- [Lecture 6](https://www.youtube.com/watch?v=PcnzOx1v-s4)
 
 # Directories
 
