@@ -4,7 +4,9 @@ Lecture slides and source code to the lecture Webengineering at the University o
 
 # News
 
-- (2015-06-16) Projekt erratat updated
+- (2015-06-28) Project errata updated:
+-- Following and unfollowing of users
+-- Example of hashtag-based search
 
 # Videos
 
