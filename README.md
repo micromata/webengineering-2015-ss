@@ -4,9 +4,7 @@ Lecture slides and source code to the lecture Webengineering at the University o
 
 # News
 
-- (2015-06-28) Project errata updated:
--- Following and unfollowing of users
--- Example of hashtag-based search
+- *The deadline of the submission for the spring-boot-project has been exteneded to July, 13th, 2015.*
 
 # Videos
 
